@@ -1,5 +1,4 @@
 # Python program to read
-# json file
 import json
 
 # Opening JSON file
