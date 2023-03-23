@@ -9,7 +9,7 @@ f = open('vishal.json')
 data = json.load(f)
 
 # Iterating through the json
-# list
+
 for i in data['vishal_details']:
 	print(i)
 
