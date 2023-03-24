@@ -22,3 +22,11 @@ while True:
     message = conn.recv(1024)
     message = message.decode()
     print(s_name,":",message)
+    
+    
+    
+
+#import time,socket,sys
+#print("intialising.....")
+#time.sleep(1)
+#s = socket.socket()
