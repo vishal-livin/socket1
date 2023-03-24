@@ -1,6 +1,7 @@
 #abcd
 
-import time,socket,sys
+import time,socket
+import sys
 print("intialising.....")
 time.sleep(1)
 s = socket.socket()
