@@ -1,4 +1,5 @@
-import time,socket,sys
+import time
+import socket,sys
 print("intialising.....")
 time.sleep(1)
 s = socket.socket()
